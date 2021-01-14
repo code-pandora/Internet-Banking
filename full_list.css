@@ -1,0 +1,16 @@
+ .main {
+     text-align: center;
+     padding: 10px;
+     font-size: 35px;
+     text-decoration: underline;
+     font-weight: 500;
+ }
+ 
+ #main_head {
+     border-width: 10px;
+     border-top: black;
+ }
+ 
+ .table {
+     text-align: center;
+ }
